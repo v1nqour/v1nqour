@@ -16,12 +16,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** dedi
 ### Backend
 ### Tools & DevOps
 
-## ✨ Projects I'm Proud Of
-
-- **[Project 1: Awesome Web App](https://github.com/your-username/project-1)** — A web application that transforms user input into something amazing!
-- **[Project 2: E-commerce Platform](https://github.com/your-username/project-2)** — A fully functional e-commerce platform built with Laravel and React.
-- **[Project 3: Portfolio Site](https://github.com/your-username/project-3)** — My personal portfolio website showcasing all my projects and designs.
-
 ---
 
 ## 📫 How to reach me
