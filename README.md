@@ -4,9 +4,9 @@
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** dedicated to transforming concepts into immersive digital experiences. I love crafting beautiful and functional web applications that solve real-world problems.
 
-- 🌐 Check out my [Portfolio Website](https://www.vinqour.com/)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/wassim-moustakir-733a40283/)
-- 📸 Follow me on [Instagram](https://www.instagram.com/v1nqour/)
+- 🌐 Check out my <a href="https://www.vinqour.com/" target="_blank">Portfolio Website</a>
+- 💼 Connect with me on <a href="https://www.linkedin.com/in/wassim-moustakir-733a40283/" target="_blank">LinkedIn</a>
+- 📸 Follow me on <a href="https://www.instagram.com/v1nqour/" target="_blank">Instagram</a>
 
 ---
 
@@ -24,8 +24,6 @@ Feel free to reach out to me via:
 
 - 💌 Email1: vinqour@gmail.com
 - 💌 Email2: moustakir.wassim@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/wassim-moustakir-733a40283/)
-- 📸 [Instagram](https://www.instagram.com/v1nqour/)
 
 ---
 
